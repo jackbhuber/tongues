@@ -1,0 +1,17 @@
+# Methods {.unnumbered}
+
+## Data Source
+
+The data for this project come from the 2014 Religious Landscape Study, by the Pew Research Center.
+
+## Instruments
+
+### Outcome variables
+
+### Predictor variables
+
+**Frequency of praying or speaking in tongues.** Measurement of glossolalia comes from one item in the Religious Landscape Survey. Respondents how identified with one of the following Christian traditions -- Evangelical Protestant Tradition, Mainline Protestant Tradition, Historically Black Protestant Tradition, Catholic, Mormon, Orthodox Christian, Jehovah's Witness, Other Christian -- were asked how often they "speak or pray in tongues" with the following response options: at least once a week, once or twice a month, several times a year, seldom, or never.
+
+## Statistical Analysis
+
+To investigate the prevalance of glossolalia in the Christian world I used basic descriptive statistics. To isolate the effect of glossolalia on attitudes I used OLS regression.
